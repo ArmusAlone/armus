@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: '0x1381', // Your GitHub org/user name. (Required)
+        username: 'ArmusAlone', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -19,7 +19,7 @@ module.exports = {
         devto: '',
         website: '',
         phone: '',
-        email: 'afshin.ataei.drive@gmail.com'
+        email: 'armusxt@gmail.com'
     },
     skills: [
         'PHP',
